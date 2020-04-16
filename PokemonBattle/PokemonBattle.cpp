@@ -1,4 +1,6 @@
 #include <iostream>
+#include "Player.h"
+#include "PokemonBattle.h"
 using namespace std;
 
 int main()
