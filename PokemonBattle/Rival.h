@@ -8,7 +8,7 @@ class Rival
 public:
 	string name;
 	string rivalStarter;
-	int age;
+	int rivalAge;
 };
 
 

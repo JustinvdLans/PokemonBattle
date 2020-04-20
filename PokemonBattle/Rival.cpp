@@ -3,4 +3,4 @@
 
 
 string rivalStarter = "Charmander";
-int age = 10;
+int rivalAge = 10;
