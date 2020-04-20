@@ -1,6 +1,5 @@
-#include <iostream>
-#include "Player.h"
 #include "PokemonBattle.h"
+#include <iostream>
 using namespace std;
 
 int main()

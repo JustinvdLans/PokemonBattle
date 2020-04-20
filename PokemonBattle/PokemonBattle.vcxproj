@@ -147,11 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BattleRewards.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="PokemonBattle.cpp" />
     <ClCompile Include="Rival.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BattleRewards.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="PokemonBattle.h" />
     <ClInclude Include="Rival.h" />

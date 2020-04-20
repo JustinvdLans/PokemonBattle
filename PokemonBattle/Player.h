@@ -8,6 +8,7 @@ class Player
 	public:
 		string name;
 		string Starter;
+		int age;
 };
 
 

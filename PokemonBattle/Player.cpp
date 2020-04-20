@@ -1,9 +1,5 @@
 #include "Player.h"
 
-string main() {
+string Starter = "Bulbasaur";
+int age = 10;
 
-
-
-
-
-}
